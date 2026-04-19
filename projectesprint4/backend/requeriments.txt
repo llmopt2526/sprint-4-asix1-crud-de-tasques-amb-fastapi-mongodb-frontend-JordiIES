@@ -1,5 +1,0 @@
-fastapi
-uvicorn[standard]
-pymongo[srv]
-pydantic[email]
-python-dotenv
