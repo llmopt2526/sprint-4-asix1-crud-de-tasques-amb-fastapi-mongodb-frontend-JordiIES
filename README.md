@@ -56,7 +56,7 @@ projecteSprint4/
 └── tests/
     └── Postman_API_tests.json
 ```
-[Veure video del prova](https://drive.google.com/file/d/1mRrtl7AzCjLcrqGBepsYWvPfKVpKME3s/view?usp=sharing)
+[Veure video demo](https://drive.google.com/file/d/1mRrtl7AzCjLcrqGBepsYWvPfKVpKME3s/view?usp=sharing)
 
 ###
 
